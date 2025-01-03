@@ -4,8 +4,8 @@ print("Hi Dawoud")
 print("Imported Success")
 
 print("Ahmed Dawoud")
-
-if "a" in "Ahmed":
-    print(True)
+letter = "a"
+if letter in "Ahmed":
+    print("PPPPP")
 else:
     print(False)
