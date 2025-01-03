@@ -1,5 +1,3 @@
-from dowhy import CausalModel
-
 print("Hi Dawoud")
 print("Imported Success")
 
